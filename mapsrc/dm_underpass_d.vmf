@@ -107708,7 +107708,7 @@ entity
 	"skin" "0"
 	"model" "models/props_junk/wood_crate001a_Chunk04.mdl"
 	"angles" "0 64 45"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -109606,7 +109606,7 @@ entity
 	"skin" "1"
 	"model" "models//props_debris/metal_panel01a.mdl"
 	"angles" "90 15 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -109636,7 +109636,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 82 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -110016,7 +110016,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 7 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -110046,7 +110046,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 82 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -110076,7 +110076,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 353.5 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -110191,7 +110191,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/canister01a.mdl"
 	"angles" "0 90 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -112975,7 +112975,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/canister02a.mdl"
 	"angles" "0 90 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -113005,7 +113005,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/canister01a.mdl"
 	"angles" "0 90 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -114592,14 +114592,14 @@ entity
 	"id" "12292"
 	"origin" "-238 -2617 -431"
 	"angles" "0 106 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "12293"
 	"origin" "482.476 -1384.83 1"
 	"angles" "0 275 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
@@ -114786,7 +114786,7 @@ entity
 	"skin" "0"
 	"model" "models/props_junk/vent001.mdl"
 	"angles" "0 270 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115081,7 +115081,7 @@ entity
 	"skin" "0"
 	"model" "models/props_junk/vent001.mdl"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115296,7 +115296,7 @@ entity
 	"skin" "0"
 	"model" "models/props_junk/vent001.mdl"
 	"angles" "0 0 -180"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115333,7 +115333,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115363,7 +115363,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115393,7 +115393,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -115480,21 +115480,21 @@ entity
 	"id" "12375"
 	"origin" "-768.049 -2512.09 -431"
 	"angles" "0 89 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "12376"
 	"origin" "-746 -1191 1"
 	"angles" "0 99 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "12377"
 	"origin" "-162.462 -315 -98"
 	"angles" "0 266 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
@@ -119402,14 +119402,14 @@ entity
 	"id" "12766"
 	"origin" "-223.474 -2285.83 1"
 	"angles" "0 106 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "12767"
 	"origin" "115.563 -1086.36 1"
 	"angles" "0 254 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
@@ -119609,7 +119609,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -119660,7 +119660,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 82 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -119800,7 +119800,7 @@ entity
 	"skin" "0"
 	"model" "models/props_interiors/Furniture_chair01a.mdl"
 	"angles" "39.6548 67.0096 -15.15"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -119830,7 +119830,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/FurnitureChair001a.mdl"
 	"angles" "0 0 53.5"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -120317,7 +120317,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -124041,7 +124041,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/canister02a.mdl"
 	"angles" "0 90 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -124071,7 +124071,7 @@ entity
 	"skin" "0"
 	"model" "models/props_c17/canister01a.mdl"
 	"angles" "0 90 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -124101,7 +124101,7 @@ entity
 	"disableshadows" "0"
 	"skin" "0"
 	"angles" "0 193.5 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -124214,7 +124214,7 @@ entity
 	"id" "13243"
 	"origin" "-1020.39 -1203.78 -455"
 	"angles" "0 344 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {

@@ -60604,7 +60604,7 @@ entity
 	"model" "models/props_wasteland/prison_toilet01.mdl"
 	"fademindist" "-1"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -61663,7 +61663,7 @@ entity
 	"ExplodeDamage" "0"
 	"fademindist" "-1"
 	"angles" "-75 90 180"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62268,14 +62268,14 @@ entity
 	"id" "6729"
 	"origin" "5268.1 7249.6 5"
 	"angles" "0 301 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6730"
 	"origin" "7893.5 7614.63 9"
 	"angles" "0 243 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
@@ -62407,7 +62407,7 @@ entity
 	"skin" "0"
 	"angles" "-75 270 90"
 	"model" "models/props_junk/wood_crate001a.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62496,7 +62496,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62527,7 +62527,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62558,7 +62558,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62589,7 +62589,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62620,7 +62620,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62651,7 +62651,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62682,7 +62682,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62713,7 +62713,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62744,7 +62744,7 @@ entity
 	"skin" "0"
 	"angles" "0 0 0"
 	"model" "models/props_c17/oildrum001_explosive.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -62861,7 +62861,7 @@ entity
 	"skin" "0"
 	"angles" "12 27 45"
 	"model" "models/props_wasteland/prison_toilet01.mdl"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -63905,49 +63905,49 @@ entity
 	"id" "6794"
 	"origin" "6404.37 6262.45 9.00001"
 	"angles" "0 127 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6795"
 	"origin" "7412.06 6319.44 201"
 	"angles" "0 134 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6796"
 	"origin" "5338.08 5501.21 9"
 	"angles" "0 97 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6797"
 	"origin" "7441.19 6394.76 201"
 	"angles" "0 146 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6798"
 	"origin" "6327.78 6266.34 9"
 	"angles" "0 95 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6799"
 	"origin" "8314.95 7473.87 9"
 	"angles" "0 222 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6800"
 	"origin" "7891.16 6254.55 9"
 	"angles" "0 135 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
@@ -64006,7 +64006,7 @@ entity
 	"model" "models/props_wasteland/prison_toilet01.mdl"
 	"fademindist" "-1"
 	"angles" "0 0 0"
-	"classname" "prop_physics_respawnable"
+	"classname" "prop_physics"
 }
 entity
 {
@@ -65610,14 +65610,14 @@ entity
 	"id" "6899"
 	"origin" "7425.55 6360.91 8.99999"
 	"angles" "10 138 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
 	"id" "6900"
 	"origin" "7372 6308 8.99999"
 	"angles" "10 138 0"
-	"classname" "info_player_deathmatch"
+	"classname" "info_player_start"
 }
 entity
 {
