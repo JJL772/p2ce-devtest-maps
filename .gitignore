@@ -2,3 +2,5 @@
 *.prt
 *.vmx
 *.log
+*confidential.vmf
+instances
